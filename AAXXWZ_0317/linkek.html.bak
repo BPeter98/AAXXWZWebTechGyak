@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Linkek (szöveges, kép, fájlra mutató)</title>
+ </head>
+	<h2>Linkek (szöveges, kép, fájlra mutató)</h2>
+
+ <body>
+
+  <font style="font size:10pt ">Ez egy szöveg, amit arra használunk, hogy a kép körül jelenjen majd meg. Ha sikerül, akkor a kép körül lesz folyatva a szöveggel (legalábbis a kép két oldala). Így már sokkal szebben be tudunk illeszteni képeket a weblapunkra! </font></div>
+    <br><br><br><br>
+	<div style="width:200px; height:200px; text-align:center">
+	<div>
+	<a href="https://www.uni-miskolc.hu/">kattints ide</a>
+	ha meg szeretnéd nyitni a iit.uni-miskolc.hu/ weblapot!
+
+	<a href="iit.html" target="ujablak">Ide kattintva megnyílik az iit.html</a>
+
+
+	</div>
+
+
+
+  
+ </body>
+</html>
