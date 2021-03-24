@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+
+  <title>Táblázat készítés</title>
+ </head>
+	<h2>Táblázat készítés</h2>
+ <body>
+	 <table<strong>border="1"</strong> >
+		
+		<tr>
+			<td>1sor 1.elem</td>
+			<td>1sor 1.elem</td>
+			<td>1sor 1.elem</td>
+		</tr>
+
+		<tr>
+			<td>1sor 1.elem</td>
+			<td>1sor 1.elem</td>
+			<td>1sor 1.elem</td>
+		</tr>
+
+		<tr>
+			<td>1sor 1.elem</td>
+			<td>1sor 1.elem</td>
+			<td>1sor 1.elem</td>
+		</tr>
+
+	</table>
+  
+ </body>
+
+</html>
