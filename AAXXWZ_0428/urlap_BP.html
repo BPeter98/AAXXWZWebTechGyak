@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+
+ 
+  <title>A weblap szerkezete</title>
+	
+		<style>
+			article, section, aside, nav, header, footer {
+				display: block;
+			}
+			.fejlec {
+				font-size: 18pt;
+				font-family: Helvetica;
+				margin-top: 20px;
+				margin-bottom: 20px;
+				font-weight: bold;
+			}
+
+			.urlap{
+				padding: 30px;
+				font-size: 12pt;
+				font-family: Helvetica;
+				background: #dfe3ea;
+				width: 500px;
+				height: 300px;
+				border-radius: 10px;
+				box-shadow: 5px 5px 10px #888888;
+			}
+
+			.lablec{
+				width: 560px;
+				font-size: 10px;
+				margin-top: 40px
+				border-top: 3px #888888 double;
+				padding-top: 30px;
+				text-align: right;
+				font-family: Helvetica;
+			}
+
+
+		</style>
+ </head>
+ 
+  <body> 
+<header id="fejlec" class="fejlec"› 
+HTMLS Ürlap
+</header> 
+<section id="tartalom" class="urlap"> 
+<!-- <form id="urlap" name"urlap" novalidate> --> 
+
+<form id="urlap" name="urlap" action="feldo/gozo.php" method="GET" target="_self"> 
+
+<strong>Név:</strong> <input type="text" id="nev" name="nev" placeholder="írd be a neved" autofocus autocomplete="off" required /> 
+<br><br> 
+
+<strong>PIN kód:</strong> <input type="text" id="kod" name="kod" placeholder="írd be a PIN kódod" autocomplete="off" required pattern="[0-9]{4}" /> 
+<br /><br /> 
+
+<strong>Kedvenc gyümölcs:</strong> 
+<input type="text" name="gyumolcs" list="gyümölcsök"> 
+
+<datalist id="gyumolcsok"> 
+<option value="dinnye"></option> 
+<option value="banán"›</option> 
+<option value="ananász"›</option> 
+<option value="eper">250 Ft/kg</option> 
+<option value="alma">180 Ft/kg</option> 
+</datalist> 
+
+<br /><br /> 
+
+<strong>Életkor:</strong> <input type="number" name="eletkor" min="10" max="80" style="width:40px"› <br />
+<br ><br>
+<strong>Lábméret:</strong> 
+
+<input type="number" name="labmeret" min="25" max="50" step="0.5" style="width:60px"› <br /><br > 
+<strong>Önbizalom:</strong>
+
+&nbsp;&nbsp;&nbsp;
+<input type="range" name="onbizalom" min="0" max="100" style="width:300px">100 
+</form> 
+
+
+<br><br><br>
+
+<input type="submit" value="ELKÜLDÖM" form="urlap"  action="feldolgozo1.php" formmethod="POST"/>
+&nbsp;&nbsp;&nbsp;
+<input type="submit" value="Elküldöm ellenőrzés nélkül" form="urlap" formnovalidate formtarget="ujablak"/>
+&nbsp;&nbsp;
+
+
+</section>
+
+		<footer id="lablec" class="lablec">
+			Forrás :
+			<a href="http://html5doctor.com/html5-forms-introduction-and-new-attributes" target="ujablak">
+				http://html5doctor.com/html5-forms-introduction-and-new-attributes
+			</a>
+			<br><br>
+			Formátumok :
+			<a href="http://html5doctor.com/html5-forms-introduction-and-new-attributes" target="ujablak">
+				http://html5doctor.com/html5-forms-introduction-and-new-attributes
+			</a>
+		</footer>
+
+	</body>
+
+</html>
