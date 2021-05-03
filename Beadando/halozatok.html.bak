@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+
+  <title>Hálózatok</title>
+ </head>
+
+  <body style="background:transparent; color:black; font-size:10pt; font-family:tahoma"›
+  <br><br><br> 
+  
+  <font style="font-size:14pt">
+   
+  <b>Hálózatok tervezése és szimulációja</b></font>
+  <br><br>
+   <strong><em>Ismertető a tantárgyról</em></strong> 
+  <br><br>
+  A tárgy Kódja: GEVEE517-B<br><br>
+
+  A tárgy keretein belül lehetőség nyílik a különböző villamos eszközök berendezések megismerésére és ezek szimulációjára.<br>
+  Ezen felül pedig Eplan tervezőszoftverben aló tervezést is megismerhetnek a hallgatók.
+  
+  <ul> 
+  <li>Villamos hajtások osztályozása
+  <img src="eplan2.jpg" width="250" height="150" border="0" alt="" style="float:right">
+  <li>Terhelő nyomatékok matematikai leírása
+  <li>Váltakozó áramú motorok vektoros leírása
+  <li>Motorok adattáblája és katalógus adatok
+  <li>Szigetelési osztályok
+  <li>Tervezési lépések
+  <li>Eplan electric tervezőprogram 
+  </ul> <br>
+Tanszéki weblap elérhetősége:
+<a href="http://www.electro.uni-miskolc.hu/" target="ujablak">http://www.electro.uni-miskolc.hu/
+</a>
+  </body> 
+
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+
+  <title>Védelmek</title>
+ </head>
+
+  <body style="background:transparent; color:black; font-size:10pt; font-family:tahoma"›
+  <br><br><br> 
+  
+  <font style="font-size:14pt">
+   
+  <b>Villamos védelmek és automatikák</b></font>
+  <br><br>
+   <strong><em>Ismertető a tantárgyról</em></strong> 
+  <br><br>
+  A tárgy Kódja: GEVEE516B<br><br>
+
+  A villamos védelmes szakemberek feladatainak ellátásához elengedhetettlen hálózatos elmélet isertetése a tárgy célja.<br>
+  Zálatszámítás teljeskörű begyakorlása a gyakorlati oktatás keretein belül.
+  
+  <ul> 
+  <li>A magyar villamos energia rendszer felépítése
+  <li>védelmi stratégiák a feszültségszinttől és a hálózat topológiájától függően
+  <img src="index.jpg" width="250" height="150" border="0" alt="" style="float:right">
+  <li>Védelmek, automatikák feladata
+  <li>zárlatszámítási módszerek áttekintése
+  <li>Hálózati hibák érzékelésének lehetőségei
+  <li>A védelmek szelektív beállításának elve
+  <li>Távolsági védelem fő részei
+  <li>Zavaró jelek és azok kiszűrésének lehetőségei
+  <li>Mérőváltók jellemzői
+  </ul> <br>
+Tanszéki weblap elérhetősége:
+<a href="http://www.electro.uni-miskolc.hu/" target="ujablak">http://www.electro.uni-miskolc.hu/
+</a>
+  </body> 
+
+</html>

@@ -1,0 +1,26 @@
+A tárgy témakörei:
+
+     A vállalatok jogi formái, ezek jellemzői, a számvitel fogalma, szerepe a vállalat működésében, valamint a mérleg és eredménykimutatás értelmezése.
+    A beruházások típusai, a megvalósítás lépései, és a kapcsolódó gazdaságossági számítások.
+    A hálótervezés fázisai és szerepe a beruházási és termelési folyamatok vizsgálatában.
+    A termelési költségek csoportjai, kalkulációs módszerek. Fedezeti pont fogalma és meghatározása.
+    A termelésirányítás alapfogalmai, a teljesítőképesség szintjei és kiszámításának alapesetei
+    Az átfutási idő szerepe a termelésben, valamint a meghatározásának módja, alapesetei
+    A készletek típusai, a készletgazdálkodás kérdései a termelés és az átfutási idő viszonylatában.
+    A termelékenység számítása és jelentősége a termelő szervezetek működésében.
+    A kontrolling funkció szerepe a termelő rendszer irányításában, az eltéréselemzés módja.
+
+https://memooc.uni-miskolc.hu/nyilt/course/view.php?id=148
+http://www.szervez.uni-miskolc.hu/
+----------------------
+http://www.electro.uni-miskolc.hu/
+GEVEE517-B
+
+Villamos hajtások osztályozása. Terhelő nyomatékok matematikai leírása. Munkapont stabilitása. Motorok melegedése. Szigetelési osztályok. Szabványos terhelések. Motorok kiválasztása működési mód, építési alak, védettség, hűtési módok, robbanás biztos kiépítés, elektromágneses kompatibilitás, vezérlés és kommunikáció szerint. Motorok adattáblája és katalógus adatok. Váltakozó áramú motorok vektoros leírása. Park-vektor. Mezőorientált szabályozás: állórész fluxus, légrés fluxus, forgórész fluxus szerint. Közvetlen és közvetett mezőorientáció. Impulzusszélesség modulált áramvektor szabályozott mezőorientált frekvenciaváltó aszinkron motor villamos hajtásához. Áramirányítós szinkron motor. Egyenáramú motorok tirisztoros és tranzisztoros villamos hajtásai. Generátoros féküzem. Villamos hajtások dinamikája.
+
+
+-----------------------
+GEVEE516B
+Villamos védelmek és automatikák
+
+A magyar villamos energia rendszer felépítése, védelmi stratégiák a feszültségszinttől és a hálózat topológiájától függően. Alapfogalmak. Védelmek, automatikák feladata, követelmények. Kapcsolat a környezettel, a technológiával. Az alkalmazott zárlatszámítási módszerek áttekintése. Hálózati hibák érzékelésének lehetőségei. A védelmek szelektív beállításának elve, feltételei. Túláramvédelmek alkalmazása és korlátai, beállításuk számítása különböző hálózatképek, berendezések esetén. Impedancia relék működési elve. Érzékelési egyenletek és zárlatfajták kapcsolata. Szelektív beállítás feltételei, karakterisztikák. Távolsági védelem fő részei. Érzékelési egyenletek, szelektív beállítás feltételei, karakterisztikák. Érzékelést torzító hatások. Kölönbözeti védelmek működési elve. Transzformátor differenciálvédelmek, kiegyenlítés számítása. Szakasz-védelmek. Gyűjtősín diszpozíciók, gyűjtősín differenciál-védelmek. Digitális (numerikus) védelmek. Érzékelési egyenletek, algoritmusok. Zavaró jelek és azok kiszűrésének lehetőségei. Üzemzavari-, és üzemviteli automatikák feladata, működési feltételeik. Védelem-automatika üzemmódok koordinálása. Alkalmazott zárlat-, és földzárlatvédelmi rendszerek. Komplex védelmek. Az alállomási irányítási rendszer és a védelmi rendszer együttműködése. Mérőváltók jellemzői, kapcsolásai, speciális mérési módszerek, ellenőrző mérések. 
